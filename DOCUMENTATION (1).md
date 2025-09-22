@@ -316,6 +316,7 @@ The application uses a semantic color system defined in `index.css`:
 ### Links 
 -Github project repo -  https://github.com/swaroop-surya/realpacific
 -Drive link for video demo - 
+-PPT link - https://docs.google.com/presentation/d/15csYPL6gC889EtcbpEiJ1jaVi4W470rkgNvMR93kyMk/edit?slide=id.g381a645f100_0_9#slide=id.g381a645f100_0_9
 
 
 ### Team Members Github Links
