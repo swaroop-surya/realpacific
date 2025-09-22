@@ -51,3 +51,5 @@ This project is built with:
 - React
 - shadcn-ui
 - Tailwind CSS
+
+## visit DOCUMENTATION(1).md for documentation
