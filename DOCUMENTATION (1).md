@@ -314,12 +314,23 @@ The application uses a semantic color system defined in `index.css`:
 - Continuous improvement process
 
 ### Links 
--Github project repo -  https://github.com/swaroop-surya/realpacific
--Drive link for video demo - 
--PPT link - https://docs.google.com/presentation/d/15csYPL6gC889EtcbpEiJ1jaVi4W470rkgNvMR93kyMk/edit?slide=id.g381a645f100_0_9#slide=id.g381a645f100_0_9
+- project link - https://pacificc.netlify.app/
+- Github project repo -  https://github.com/swaroop-surya/realpacific
+- Drive link for video demo (in Mobile) - https://drive.google.com/file/d/1HsFH30W251cch7w1McaH4WUmMu0_ALCe/view?usp=drivesdk
+- Drive link for video demo (in Desktop) -
+- PPT link - https://docs.google.com/presentation/d/15csYPL6gC889EtcbpEiJ1jaVi4W470rkgNvMR93kyMk/edit?slide=id.g381a645f100_0_9#slide=id.g381a645f100_0_9
 
 
-### Team Members Github Links
+### Team members github profiles 
+- https://github.com/swaroop-surya
+- https://github.com/akshay-kumar12307
+- https://github.com/ramarocyesuddapalli-infinite
+- https://github.com/tejasriaddala4446-bot
+- https://github.com/divyasiripurapu309-sys
+- https://github.com/bharathipotnuri1-cmyk
+
+
+
 
  
 
