@@ -313,6 +313,15 @@ The application uses a semantic color system defined in `index.css`:
 - User satisfaction surveys
 - Continuous improvement process
 
+### Links 
+-Github project repo -  https://github.com/swaroop-surya/realpacific
+-Drive link for video demo - 
+
+
+### Team Members Github Links
+
+ 
+
 ---
 
 *This documentation serves as a comprehensive guide to the Pacific education guidance platform. For technical questions or contributions, please refer to the development team or create an issue in the project repository.*
