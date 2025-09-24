@@ -3,14 +3,14 @@ import { Button } from "@/components/ui/button";
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import { Badge } from "@/components/ui/badge";
 import { ArrowLeft, MapPin, Phone, Mail, ExternalLink, BookOpen, Home, Users, Wifi, Calendar, Star } from "lucide-react";
-import { sampleColleges } from "@/data/sampleData";
+import { realColleges } from "@/data/realColleges";
 import Header from "@/components/Header";
 
 const CollegeDetail = () => {
   const { id } = useParams();
   const navigate = useNavigate();
   
-  const college = sampleColleges.find(c => c.id === id);
+  const college = realColleges.find(c => c.id === id);
 
   if (!college) {
     return (
@@ -251,7 +251,7 @@ const CollegeDetail = () => {
               </CardHeader>
               <CardContent>
                 <div className="space-y-3">
-                  {sampleColleges
+                  {realColleges
                     .filter(c => c.id !== college.id && c.state === college.state)
                     .slice(0, 2)
                     .map((similarCollege) => (
